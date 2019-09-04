@@ -1,1 +1,3 @@
-FashionMNIST
+FashionMNIST - Initial commit taken from my other project (Machine Learning Basics, which ended up being a lot about data science and processing datasets for many exemples, with artificial neural networks in the final commits, mainly in this exemple, so i decided to separate the git repository since this was getting bigger than the other parts)
+ - goal -> just getting more knowledge on machine learning. My initial goal was about 94-95% accuracy(since currently 96.7% is the world record for this dataset).
+i got about 94.4% accuracy while working on the other repository, so now I'll come back to this project every now and then when I think that i might have found another simple way to enhance its accuracy.
